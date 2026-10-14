@@ -1,0 +1,4 @@
+model,absolute_error
+Naive Forecast,108787.02833333332
+Moving Average,109946.14916666666
+Linear Regression,130021.96517957142
